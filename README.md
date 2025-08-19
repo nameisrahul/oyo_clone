@@ -115,18 +115,23 @@ Open the app in your browser at
 
 📸 Screenshots:
 
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
 
 
+![user register form] (screenshots/user register form.png).
+
+
+![Alt Text](screenshots/user login form.png)
+
+![Alt Text](screenshots/vendor registration form.png)
+![Alt Text](oyo_clone/screenshots/Vendor login form.png)
+![Alt Text](screenshots/add hotel page.png)
+![Alt Text](screenshots/added hotels.png)
+![Alt Text](screenshots/booking page.png)
+![Alt Text](screenshots/navigation ui.png)
+![Alt Text](screenshots/hoteluser database.png)
+![Alt Text](screenshots/hotelvendor database.png)
+![Alt Text](screenshots/hotelbooking database.png)
+![Alt Text](screenshots/oyoclone home page containig hotels.png)
+
+![Dashboard](screenshots/dashboard.png)
 
