@@ -14,3 +14,5 @@ The OYO Clone Django Project aims to replicate the functionalities of the popula
 4. Confirmation and Notifications:
    - Upon successful booking, users will receive instant confirmation of their reservations via email or SMS. Additionally, they will receive notifications regarding booking updates, such as payment confirmation, check-in details, and other relevant information.
 
+
+
