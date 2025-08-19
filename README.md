@@ -1,4 +1,10 @@
-<h1 align="center">OYO Clone Django Project</h1>
+<h1 align="center">🏨 OYO Clone – Hotel Booking Application</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Django-4.0-green" alt="Django Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-orange" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License Badge"/>
+</p>
 
 ## Project Overview:
 The OYO Clone Django Project aims to replicate the functionalities of the popular hotel booking platform OYO, providing users with a seamless experience for discovering, booking, and managing hotel accommodations. Leveraging the Django framework, this project will focus on delivering a robust and scalable web application tailored to meet the needs of modern travelers.
