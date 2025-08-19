@@ -117,6 +117,9 @@ Open the app in your browser at
 
 
 
+
+
+![Dashboard](screenshots/dashboard.png)
 ![user register form] (screenshots/user register form.png).
 
 
@@ -132,6 +135,4 @@ Open the app in your browser at
 ![Alt Text](screenshots/hotelvendor database.png)
 ![Alt Text](screenshots/hotelbooking database.png)
 ![Alt Text](screenshots/oyoclone home page containig hotels.png)
-
-![Dashboard](screenshots/dashboard.png)
 
