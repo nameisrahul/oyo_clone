@@ -27,33 +27,95 @@ The OYO Clone Django Project aims to replicate the functionalities of the popula
 
 
 
-OYO-CLONE/
+OYO_CLONE/
 
-│-- oyo/                # Main Django project folder
+│-- accounts/                 # user, vendor, html templates, view logic 
 
-│-- hotels/             # Django app for hotel management
+│-- home/             # base,utils, templates
 
-│-- templates/          # HTML templates
+│-- hotels/          # Django app for hotel management
 
 │-- static/             # CSS, JS, Images
+
+|-- oyo_clone  # django main project setup
 
 │-- db.sqlite3 / MySQL  # Database
 
 │-- manage.py           # Django project manager
 
-│-- requirements.txt    # Dependencies
+
 
 
 🛠️ Tech Stack
 
-- Frontend: HTML, CSS, Bootstrap
+- Frontend: HTML, CSS, Bootstrap, Flora editor
 
 - Backend Framework: Django (Python)
 
 - Database: MySQL (via XAMPP)
 
-- Server: Django Development Server
+- Server: Django Development Server, XAMPP Server
 
 - Version Control: Git & GitHub
+
+
+⚙️ Installation & Setup
+
+Clone the repository
+```bash
+
+git clone https://github.com/nameisrahul/OYO-CLONE.git
+cd OYO-CLONE
+```
+
+Create a virtual environment
+```bash
+python -m venv venv
+```
+
+Activate it
+
+Windows:
+```bash
+venv\Scripts\activate
+```
+
+Mac/Linux:
+```bash
+source venv/bin/activate
+```
+
+Install Dependencies
+     change it to the project directory
+     ``` bash
+     cd oyo_clone
+     ```
+    
+  - open the code in VScode or any IDE's 
+
+Apply migrations
+```bash
+python manage.py makemigrations
+python manage.py migrate
+```
+
+Run the development server
+```bash
+python manage.py runserver
+```
+
+Open the app in your browser at
+👉 http://127.0.0.1:8000/
+
+📸 Screenshots:
+
+![Alt Text](image-link.png)
+![Alt Text](image-link.png)
+![Alt Text](image-link.png)
+![Alt Text](image-link.png)
+![Alt Text](image-link.png)
+![Alt Text](image-link.png)
+![Alt Text](image-link.png)
+
 
 
