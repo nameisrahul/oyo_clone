@@ -31,7 +31,7 @@ The OYO Clone Django Project aims to replicate the functionalities of the popula
 📱 Responsive Design 
 - Works across desktop, tablet, and mobile devices.
 
-
+## 📂 Project Structure
 
 OYO_CLONE/
 
@@ -52,7 +52,7 @@ OYO_CLONE/
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Frontend: HTML, CSS, Bootstrap, Flora editor
 
@@ -65,7 +65,7 @@ OYO_CLONE/
 - Version Control: Git & GitHub
 
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 Clone the repository
 ```bash
@@ -113,7 +113,7 @@ python manage.py runserver
 Open the app in your browser at
 👉 http://127.0.0.1:8000/
 
-📸 Screenshots:
+## 📸 Screenshots:
 
 ![app screenshots](screenshots)
 
