@@ -27,5 +27,33 @@ The OYO Clone Django Project aims to replicate the functionalities of the popula
 
 
 
+OYO-CLONE/
+
+│-- oyo/                # Main Django project folder
+
+│-- hotels/             # Django app for hotel management
+
+│-- templates/          # HTML templates
+
+│-- static/             # CSS, JS, Images
+
+│-- db.sqlite3 / MySQL  # Database
+
+│-- manage.py           # Django project manager
+
+│-- requirements.txt    # Dependencies
+
+
+🛠️ Tech Stack
+
+- Frontend: HTML, CSS, Bootstrap
+
+- Backend Framework: Django (Python)
+
+- Database: MySQL (via XAMPP)
+
+- Server: Django Development Server
+
+- Version Control: Git & GitHub
 
 
